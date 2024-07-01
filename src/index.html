@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Screen Recorder</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/png" href="icon.png">
+</head>
+<body>
+  <div class="container">
+
+    <video id="videoDisplay"></video>
+
+    <div class="controls">
+      <button id="startBtn" class="btn">Start</button>
+      <button id="stopBtn" class="btn">Stop</button>
+    </div>
+    <div>
+      <label for="selectMenu">Selected Source:</label>
+      <select id="selectMenu"></select>
+    </div>
+  </div>
+
+  <script src="renderer.js"></script>
+</body>
+</html>
