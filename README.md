@@ -6,7 +6,7 @@ Screen Recorder is a lightweight desktop application built with Electron.js that
 
 ## App Demonstration
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](.githubutils/app_screenshot.png)
 
 ## Installation
 
