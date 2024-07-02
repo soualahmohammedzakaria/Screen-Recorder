@@ -2,7 +2,7 @@
 
 ## Overview
 
-Screen Recorder is a lightweight desktop application built with Electron.js that allows users to capture video recordings of their screen. This application is designed for simplicity and efficiency, making it easy to start and stop recordings, select screen sources, and save videos to your local machine.
+Screen Recorder is a lightweight desktop application built with Electron JS that allows users to capture video recordings of their screen. This application is designed for simplicity and efficiency, making it easy to start and stop recordings, select screen sources, and save videos to your local machine.
 
 ## App Demonstration
 
@@ -19,7 +19,7 @@ Screen Recorder is a lightweight desktop application built with Electron.js that
 
 ```bash
 git clone https://github.com/soualahmohammedzakaria/Screen-Recorder.git
-cd screen-recorder
+cd Screen-Recorder
 ```
 
 ### Install Dependencies
