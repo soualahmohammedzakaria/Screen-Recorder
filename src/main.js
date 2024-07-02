@@ -10,7 +10,7 @@ const createWindow = () => {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
     show: false,
-    icon: path.join(__dirname, '../../src/icon.png'),
+    icon: path.join(__dirname, '../../src/assets/icon.png'),
     webPreferences: {
       preload: MAIN_WINDOW_PRELOAD_WEBPACK_ENTRY,
       nodeIntegration: true,
