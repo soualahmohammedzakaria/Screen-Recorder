@@ -18,7 +18,7 @@ Screen Recorder is a lightweight desktop application built with Electron.js that
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/screen-recorder.git
+git clone https://github.com/soualahmohammedzakaria/Screen-Recorder.git
 cd screen-recorder
 ```
 
